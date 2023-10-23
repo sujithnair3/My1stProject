@@ -1,3 +1,3 @@
 # My1stProject
-This is a GIT HUB learning and Practise Repository
-Author Sujith Nair
+This is a GIT HUB learning and Practise Repository.
+<br>Author Sujith Nair <br/>
