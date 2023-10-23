@@ -1,2 +1,2 @@
 # My1stProject
-This is a GITHUB learning &amp; Practise Repository
+This is a GIT HUB learning and Practise Repository
